@@ -9,7 +9,7 @@
 * Murillo Boyadjian - RM 570774
 
 ## Vídeo
-https://youtu.be/COLE_AQUI
+https://youtu.be/HtVT6HjjbCs
 
 ## Sobre o projeto
 Classificação da variável `Energy_Class` (High, Low, Medium) com o dataset
