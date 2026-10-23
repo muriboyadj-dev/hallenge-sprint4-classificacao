@@ -1,3 +1,0 @@
-Cenário,Treino,Teste,Acurácia,Precisão (weighted),Recall (weighted)
-cenario1_60_40,600,400,0.75,0.7537,0.75
-cenario2_85_15,850,150,0.8,0.7994,0.8
